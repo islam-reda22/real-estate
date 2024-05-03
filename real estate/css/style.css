@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-image: url(../img/background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.header-details{
+    margin-top: 122px;
+    padding-bottom: 66px;
+}
+.nav-details a{
+    text-decoration: none;
+    color: black;
+    margin-right: 32px;
+    font-family: monospace;
+    
+    font-size: 17px;
+
+}
+.header-details h2{
+    color: black;
+    margin-bottom: 16px;
+    font-family: MONOSPACE;
+}
+.header-details h5{
+    color: black;
+    margin-bottom: 16px;
+    font-family: MONOSPACE;
+}
+.card-img-top{
+    height: 300px;
+}
+.card-body span{
+    margin-right: 8px;
+
+}
+.carousel-item img{
+    height: 700px;
+}
